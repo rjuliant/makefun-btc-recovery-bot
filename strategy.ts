@@ -63,7 +63,7 @@ export const DEFAULT_PARAMS: Params = {
   stop: 0.018,
   patience: 480,
   cooldown: 120,
-  allocation: 0.95,
+  allocation: 1.0,
   trendGap: 0.0015,
   efficiency: 0.45,
   confirmCost: 0.5,
