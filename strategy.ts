@@ -62,7 +62,7 @@ export const DEFAULT_PARAMS: Params = {
   trail: 0.004,
   stop: 0.018,
   patience: 480,
-  cooldown: 10,
+  cooldown: 120,
   allocation: 0.95,
   trendGap: 0.0015,
   efficiency: 0.45,
